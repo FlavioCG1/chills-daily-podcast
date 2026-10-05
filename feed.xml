@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chills Daily Podcast</title>
+    <link>https://www.youtube.com/@chillsdailyofficial</link>
+    <language>en-us</language>
+    <description>Horror stories to keep you up at night. Sleep is optional. Fear is guaranteed.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <author>Flavio Garcia</author>
+    <copyright>© 2026 Flavio Garcia</copyright>
+    <itunes:summary>Horror stories to keep you up at night. Sleep is optional. Fear is guaranteed.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Flavio Garcia</itunes:name>
+      <itunes:email>chillsdaily@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://flaviocg1.github.io/chills-daily-podcast/cover.png"/>
+    <itunes:category text="Fiction">
+      <itunes:category text="Horror"/>
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://flaviocg1.github.io/chills-daily-podcast/cover.png</url>
+      <title>Chills Daily Podcast</title>
+      <link>https://www.youtube.com/@chillsdailyofficial</link>
+    </image>
+    <!-- EPISODES: newest first -->
+    <item>
+      <title>SCP-096: The Full Story (English)</title>
+      <description>The complete SCP-096 incident — all six parts. The Archivist presents the full record of what happened when Daniel and Maya encountered the creature you must never look at. Sleep is optional. Fear is guaranteed.</description>
+      <itunes:summary>The complete SCP-096 incident — all six parts, presented by the Archivist.</itunes:summary>
+      <itunes:author>Flavio Garcia</itunes:author>
+      <author>Flavio Garcia</author>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 -0600</pubDate>
+      <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/scp096_fullstory_EN.mp3" length="4700098" type="audio/mpeg"/>
+      <guid isPermaLink="false">chillsdaily-scp096-fullstory-en-001</guid>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>SCP-096: La Historia Completa (Español)</title>
+      <description>El incidente completo del SCP-096 — las seis partes. El Archivista presenta el registro completo de lo que pasó cuando Daniel y Maya se encontraron con la criatura a la que nunca debes mirar. Dormir es opcional. El miedo está garantizado.</description>
+      <itunes:summary>El incidente completo del SCP-096 — las seis partes, presentado por el Archivista.</itunes:summary>
+      <itunes:author>Flavio Garcia</itunes:author>
+      <author>Flavio Garcia</author>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 -0600</pubDate>
+      <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/scp096_fullstory_ES.mp3" length="4697172" type="audio/mpeg"/>
+      <guid isPermaLink="false">chillsdaily-scp096-fullstory-es-001</guid>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
