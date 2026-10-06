@@ -28,6 +28,32 @@
     </image>
     <!-- EPISODES: newest first -->
     <item>
+      <title>Chills Daily — Oct 6: The Shy Guy's Story So Far</title>
+      <description>The Archivist presents: the complete SCP-096 story so far — all six encounters with the thing you must never look at. Plus the Warden Files, and the full Chapter One of The Hollow. Sleep is optional. Fear is guaranteed.</description>
+      <itunes:summary>The complete SCP-096 story so far, the Warden Files, and The Hollow Chapter One, presented by the Archivist.</itunes:summary>
+      <itunes:author>Flavio Garcia</itunes:author>
+      <author>Flavio Garcia</author>
+      <pubDate>Tue, 06 Oct 2026 13:52:00 -0600</pubDate>
+      <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep003_daily-oct6.mp3" length="19880525" type="audio/mpeg"/>
+      <guid isPermaLink="false">chillsdaily-ep003-20261006</guid>
+      <itunes:duration>00:20:42</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Hollow Queen 👑 | Monster Anthology EP2</title>
+      <description>The Investigator presents the second Monster Anthology entry: the Hollow Queen, monarch of the empty places, collecting her court. A standalone nightmare. Sleep is optional. Fear is guaranteed.</description>
+      <itunes:summary>The Hollow Queen — Monster Anthology episode two, presented by the Investigator.</itunes:summary>
+      <itunes:author>Flavio Garcia</itunes:author>
+      <author>Flavio Garcia</author>
+      <pubDate>Tue, 06 Oct 2026 13:52:00 -0600</pubDate>
+      <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep002_hollow-queen.mp3" length="1088333" type="audio/mpeg"/>
+      <guid isPermaLink="false">chillsdaily-hollowqueen-20261006</guid>
+      <itunes:duration>00:01:08</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>SCP-096: The Full Story (English)</title>
       <description>The complete SCP-096 incident — all six parts. The Archivist presents the full record of what happened when Daniel and Maya encountered the creature you must never look at. Sleep is optional. Fear is guaranteed.</description>
       <itunes:summary>The complete SCP-096 incident — all six parts, presented by the Archivist.</itunes:summary>
