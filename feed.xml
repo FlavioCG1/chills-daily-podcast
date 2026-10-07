@@ -3,14 +3,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Chills Daily Podcast</title>
+    <title>Chills Daily Podcast — Bilingual EN/ES</title>
     <link>https://www.youtube.com/@chillsdailyofficial</link>
     <language>en-us</language>
-    <description>Horror stories to keep you up at night. Sleep is optional. Fear is guaranteed.</description>
+    <description>Bilingual horror podcast — every episode in English y en español. Horror stories to keep you up at night. Sleep is optional. Fear is guaranteed. | Podcast bilingüe de terror: cada episodio en inglés y en español.</description>
     <itunes:author>Flavio Garcia</itunes:author>
     <author>Flavio Garcia</author>
     <copyright>© 2026 Flavio Garcia</copyright>
-    <itunes:summary>Horror stories to keep you up at night. Sleep is optional. Fear is guaranteed.</itunes:summary>
+    <itunes:summary>Bilingual horror podcast (EN/ES) — every episode in English y en español. Horror stories to keep you up at night. Sleep is optional. Fear is guaranteed.</itunes:summary>
     <itunes:owner>
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>Flaviogarcia90@yahoo.com</itunes:email>
@@ -23,7 +23,7 @@
     <itunes:type>episodic</itunes:type>
     <image>
       <url>https://flaviocg1.github.io/chills-daily-podcast/cover.png</url>
-      <title>Chills Daily Podcast</title>
+      <title>Chills Daily Podcast — Bilingual EN/ES</title>
       <link>https://www.youtube.com/@chillsdailyofficial</link>
     </image>
     <!-- EPISODES: newest first -->
