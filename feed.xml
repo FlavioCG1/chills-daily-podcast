@@ -28,6 +28,32 @@
     </image>
     <!-- EPISODES: newest first -->
     <item>
+      <title>Chills Daily — Oct 7: The Search + the Complete SCP-096 Story So Far</title>
+      <description>The Archivist opens tonight's show with SCP-096 Episode Two "The Search," Campfire Tales Episode One "One Chair Too Many," and The Empty Chair Chapter Two. Then the complete SCP-096 story so far (all ten episodes), the Warden Files, The Empty Chair from the beginning, and the Monster Anthology. Sleep is optional. Fear is guaranteed.</description>
+      <itunes:summary>The Archivist: tonight's new episodes plus the complete SCP-096 story so far, the Warden Files, The Empty Chair from the beginning, and the Monster Anthology.</itunes:summary>
+      <itunes:author>Flavio Garcia</itunes:author>
+      <author>Flavio Garcia</author>
+      <pubDate>Wed, 07 Oct 2026 19:43:00 -0600</pubDate>
+      <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep004_en_oct7.mp3" length="14484941" type="audio/mpeg"/>
+      <guid isPermaLink="false">chillsdaily-ep004-20261007-en</guid>
+      <itunes:duration>00:15:05</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Chills Daily — 7 de octubre: La búsqueda y la historia completa de SCP-096</title>
+      <description>El Archivista abre el programa de esta noche con el episodio dos de SCP-096 "La búsqueda," el primer episodio de Historias junto a la fogata "Una silla de más" y el capítulo dos de La silla vacía. Después: la historia completa de SCP-096 (los diez episodios), los archivos del Guardián, La silla vacía desde el principio y la antología de monstruos. Dormir es opcional. El miedo está garantizado.</description>
+      <itunes:summary>El Archivista: los episodios nuevos de esta noche más la historia completa de SCP-096, los archivos del Guardián, La silla vacía desde el principio y la antología de monstruos.</itunes:summary>
+      <itunes:author>Flavio Garcia</itunes:author>
+      <author>Flavio Garcia</author>
+      <pubDate>Wed, 07 Oct 2026 19:43:00 -0600</pubDate>
+      <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep004_es_oct7.mp3" length="14480717" type="audio/mpeg"/>
+      <guid isPermaLink="false">chillsdaily-ep004-20261007-es</guid>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Chills Daily — Oct 6: The Shy Guy's Story So Far</title>
       <description>The Archivist presents: the complete SCP-096 story so far — all six encounters with the thing you must never look at. Plus the Warden Files, and the full Chapter One of The Hollow. Sleep is optional. Fear is guaranteed.</description>
       <itunes:summary>The complete SCP-096 story so far, the Warden Files, and The Hollow Chapter One, presented by the Archivist.</itunes:summary>
