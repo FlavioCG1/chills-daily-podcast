@@ -27,6 +27,28 @@
       <link>https://www.youtube.com/@chillsdailyofficial</link>
     </image>
     <!-- EPISODES: newest first -->
+  <item>
+    <title>Chills Daily — Oct 17: The Gatekeeper and the Steps Between</title>
+    <description>Tonight's lineup: two premieres in full — SCP-1731 Episode One "The Gatekeeper" and SCP-087 Episode Two "The Steps Between." Then the complete SCP-096 story so far, deeper into The Hollow (Chapter Two), the Warden Files parts 11 and 12, a campfire tale ("Don't Whistle Back"), and the Empty Chair. Sleep is optional. Fear is guaranteed.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Sat, 17 Oct 2026 20:29:33 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep014_en_oct17.mp3" length="19839405" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep014-20261017-en</guid>
+    <itunes:duration>00:20:39</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Chills Daily — 17 de octubre: El Guardián y los Escalones Intermedios</title>
+    <description>La programación de esta noche: dos estrenos completos: SCP-1731 Episodio Uno, "El Guardián", y SCP-087 Episodio Dos, "Los Escalones Intermedios". Después, la historia completa de SCP-096 hasta ahora, más adentro del Hueco (Capítulo Dos), los Archivos del Vigilante partes 11 y 12, un relato junto a la fogata ("No Le Chifles De Regreso"), y la Silla Vacía. Dormir es opcional. El miedo está garantizado.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Sat, 17 Oct 2026 20:29:33 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep014_es_oct17.mp3" length="20070573" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep014-20261017-es</guid>
+    <itunes:duration>00:20:54</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
     <item>
       <title>Chills Daily — October 16, 2026: The Alley, and Deeper Into the Hollow</title>
       <description>The Archivist opens tonight with SCP-096 Episode Nine 'The Alley' in full — premiering tonight at 8 PM. Then the 096 story so far, episodes one through eight. Centerpiece: deeper into the Hollow — back into Chapter One, past where we left off. Plus the Warden Files parts nine and ten, the campfire tale 'The Photograph,' and The Empty Chair Chapter Two. And a tease: tomorrow night, SCP-087 Episode Two 'The Steps Between.' Sleep is optional. Fear is guaranteed.</description>
