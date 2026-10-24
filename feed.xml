@@ -28,6 +28,28 @@
     </image>
     <!-- EPISODES: newest first -->
   <item>
+    <title>Chills Daily — Oct 23: Warden 'The New Door,' SCP-001 'When Day Breaks,' and Jasper 'The Knock Pattern'</title>
+    <description>Tonight's lineup: three premieres in full — Warden Part Fifteen 'The New Door,' SCP-001 Episode Two 'When Day Breaks,' and Jasper Episode Six 'The Knock Pattern.' Then the complete SCP-096 story so far (EP1-12 plus the vote special), the Warden Files part 21, a campfire tale ('The Photograph'), and the Empty Chair Chapter One. Sleep is optional. Fear is guaranteed.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Fri, 23 Oct 2026 21:00:00 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep019_en_oct23.mp3" length="24161637" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep019-20261023-en</guid>
+    <itunes:duration>00:16:47</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Chills Daily — 23 de octubre: El Vigilante 'La Nueva Puerta,' SCP-001 'Cuando Amanece' y Jasper 'El Patrón del Toque'</title>
+    <description>La programación de esta noche: tres estrenos completos — El Vigilante Parte Quince 'La Nueva Puerta,' SCP-001 Episodio Dos 'Cuando Amanece,' y Jasper Episodio Seis 'El Patrón del Toque.' Después, la historia completa de SCP-096 hasta ahora (episodios 1 a 12 más el especial de la votación), los Archivos del Vigilante parte 21, un relato junto a la fogata ('La Fotografía'), y la Silla Vacía Capítulo Uno. Dormir es opcional. El miedo está garantizado.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Fri, 23 Oct 2026 21:00:00 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep019_es_oct23.mp3" length="24610525" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep019-20261023-es</guid>
+    <itunes:duration>00:17:05</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Chills Daily — Oct 22: Warden Part 14, Jasper 'The Costume,' and SCP-106 'Episode Two'</title>
     <description>Tonight's lineup: three premieres in full — Warden Part Fourteen, Jasper Episode Five 'The Costume,' and SCP-106 Episode Two. Then the SCP-106 story so far, the complete SCP-096 story (EP1-12 plus the night you decided Maya's fate), the Warden Files parts 19 and 20, a campfire tale ('One Chair Too Many'), and the Empty Chair. Sleep is optional. Fear is guaranteed.</description>
     <itunes:author>Flavio Garcia</itunes:author>
