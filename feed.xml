@@ -28,6 +28,28 @@
     </image>
     <!-- EPISODES: newest first -->
   <item>
+    <title>Chills Daily — Oct 25: Warden 'The Corridor Breathes,' SCP-001 'When Day Breaks' EP3, and the story so far</title>
+    <description>Tonight's lineup: two premieres in full — Warden Part Seventeen 'The Corridor Breathes' and SCP-001 Episode Three 'When Day Breaks' (with Episode Two as the bridge). Then the complete SCP-096 story so far (EP1-12 plus the vote special, with the rebuilt EP10), ST1 Episode Two 'The Third Aisle,' a campfire tale ('One Chair Too Many'), and The Empty Chair Chapter One. Sleep is optional. Fear is guaranteed.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Sun, 25 Oct 2026 21:00:00 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep021_en_oct25.mp3" length="21751057" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep021-20261025-en</guid>
+    <itunes:duration>00:15:06</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Chills Daily — 25 de octubre: El Vigilante Parte Diecisiete, SCP-001 Episodio Tres, y la historia hasta ahora</title>
+    <description>Esta noche: dos estrenos completos — El Vigilante Parte Diecisiete 'El Corredor Respira' y SCP-001 Episodio Tres 'Cuando Amanece' (con el Episodio Dos como puente). Luego, la historia completa de SCP-096 hasta ahora (EP1-12 más el especial de votación, con el EP10 reconstruido), ST1 Episodio Dos, un cuento de fogata y La Silla Vacía Capítulo Uno. El sueño es opcional. El miedo está garantizado.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Sun, 25 Oct 2026 21:00:00 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep021_es_oct25.mp3" length="21976129" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep021-20261025-es</guid>
+    <itunes:duration>00:15:16</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Chills Daily — Oct 24: Warden 'Inside the Warden,' Jasper 'The Jack-o'-Lantern,' and the Salt Line breaks</title>
     <description>Tonight's lineup: three premieres in full — Warden Part Sixteen, Jasper Episode Seven 'The Jack-o'-Lantern,' and ST2 Episode Two 'The Broken Line.' Then SCP-001 Episode One, the complete SCP-096 story so far (EP1-12 plus the vote special, with the rebuilt EP10), the Warden Files part 22, a campfire tale ('Do Not Whistle Back'), and Empty Chair Chapter Two. Sleep is optional. Fear is guaranteed.</description>
     <itunes:author>Flavio Garcia</itunes:author>
