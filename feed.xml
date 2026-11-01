@@ -28,6 +28,29 @@
     </image>
     <!-- EPISODES: newest first -->
   <item>
+    <title>Chills Daily — Nov 1: The SCP-096 story so far, SCP-001 EP6, and Jasper EP10 encore</title>
+    <description>Tonight's lineup: the complete SCP-096 story so far (the full story plus EP9-13, with the rebuilt EP10), SCP-001 Episode Six, ST1 Episode Five 'The Intercom,' a campfire tale ('The Photograph'), The Empty Chair Chapter Two, and an encore of Jasper Episode Ten 'The Candy Bowl.' Sleep is optional. Fear is guaranteed.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Sun, 01 Nov 2026 21:00:00 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep028_en_nov01.mp3" length="21420661" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep028-20261101-en</guid>
+    <itunes:duration>00:14:52</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Chills Daily — 1 de noviembre: La historia de SCP-096 hasta ahora, SCP-001 Episodio Seis, y de nuevo Jasper Episodio Diez</title>
+    <description>El programa de esta noche: la historia completa de SCP-096 hasta ahora (la historia completa más los episodios 9 al 13, con el episodio 10 reconstruido), SCP-001 Episodio Seis, ST1 Episodio Cinco 'El Intercomunicador,' un cuento de fogata ('La Fotografía'), La Silla Vacía Capítulo Dos, y de nuevo Jasper Episodio Diez 'El Tazón de Dulces.' Dormir es opcional. El miedo está garantizado.</description>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <pubDate>Sun, 01 Nov 2026 21:00:00 -0600</pubDate>
+    <enclosure url="https://flaviocg1.github.io/chills-daily-podcast/audio/chillsdaily_ep028_es_nov01.mp3" length="21690871" type="audio/mpeg"/>
+    <guid isPermaLink="false">chillsdaily-ep028-20261101-es</guid>
+    <itunes:duration>00:15:04</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+
+  <item>
     <title>Chills Daily — Oct 31: Jasper EP11 finale, and the SCP-096 story so far</title>
     <description>Tonight's finale: Jasper Episode Eleven 'The Invitation,' in full. Then the complete SCP-096 story so far (the full story plus EP9-13, with the rebuilt EP10), SCP-001 Episode Five, ST1 Episode Four 'The Security Feed,' a campfire tale ('One Chair Too Many'), and The Empty Chair Chapter One. Sleep is optional. Fear is guaranteed.</description>
     <itunes:author>Flavio Garcia</itunes:author>
